@@ -1,6 +1,6 @@
 # watchbuffy [![[version]](https://badge.fury.io/rb/watchbuffy.svg)](https://badge.fury.io/rb/watchbuffy)  [![[travis]](https://travis-ci.org/janlelis/watchbuffy.svg)](https://travis-ci.org/janlelis/watchbuffy)
 
-Suggests a random Buffy or Angel episode to watch
+CLI utility which suggests a random Buffy or Angel episode to watch!
 
 ## Setup
 
@@ -35,8 +35,10 @@ $ watchbuffy --buffy-season 6 --angel-season 3
 ▶️  Watch Buffy episode 6×17: "Normal Again"
 ```
 
+```
 $ watchbuffy --angel-season 4,5
 ▶️  Watch Angel episode 5×14: "Smile Time"
+```
 
 ## MIT License
 
