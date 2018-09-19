@@ -21,11 +21,11 @@ $ watchbuffy
 ▶️  Watch Buffy episode 6×8: "Tabula Rasa"
 ```
 
-Run it again to get a new suggestion
+Run it again to get a new suggestion:
 
 ```
 $ watchbuffy
-▶️  Watch Buffy episode 2×2: "Are You Now or Have You Ever Been"
+▶️  Watch Angel episode 2×2: "Are You Now or Have You Ever Been"
 ```
 
 It supports a list of seasons to consider:
