@@ -1,0 +1,1561 @@
+{
+  "name": "buffyverse-episodes",
+  "description": "List of all Buffy and Angel TV episodes",
+  "from": "https://github.com/janlelis/watchbuffy",
+  "version": "1.0.0",
+  "episodes": [
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 1,
+      "title": "Welcome to the Hellmouth",
+      "part": "1/2"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 2,
+      "title": "The Harvest",
+      "part": "2/2"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 3,
+      "title": "Witch"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 4,
+      "title": "Teacher's Pet"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 5,
+      "title": "Never Kill a Boy on the First Date"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 6,
+      "title": "The Pack"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 7,
+      "title": "Angel"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 8,
+      "title": "I Robot, You Jane"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 9,
+      "title": "The Puppet Show"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 10,
+      "title": "Nightmares"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 11,
+      "title": "Out of Mind, Out of Sight"
+    },
+    {
+      "show": "buffy",
+      "season": 1,
+      "numberInSeason": 12,
+      "title": "Prophecy Girl"
+    },
+
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 1,
+      "title": "When She Was Bad"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 2,
+      "title": "Some Assembly Required"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 3,
+      "title": "School Hard"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 4,
+      "title": "Inca Mummy Girl"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 5,
+      "title": "Reptile Boy"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 6,
+      "title": "Halloween"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 7,
+      "title": "Lie to Me"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 8,
+      "title": "The Dark Age"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 9,
+      "title": "What's My Line, Part One",
+      "part": "1/2"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 10,
+      "title": "What's My Line, Part Two",
+      "part": "2/2"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 11,
+      "title": "Ted"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 12,
+      "title": "Bad Eggs"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 13,
+      "title": "Surprise"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 14,
+      "title": "Innocence"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 15,
+      "title": "Phases"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 16,
+      "title": "Bewitched, Bothered and Bewildered"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 17,
+      "title": "Passion"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 18,
+      "title": "Killed by Death"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 19,
+      "title": "I Only Have Eyes for You"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 20,
+      "title": "Go Fish"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 21,
+      "title": "Becoming, Part One",
+      "part": "1/2"
+    },
+    {
+      "show": "buffy",
+      "season": 2,
+      "numberInSeason": 22,
+      "title": "Becoming, Part Two",
+      "part": "2/2"
+    },
+
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 1,
+      "title": "Anne"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 2,
+      "title": "Dead Man's Party"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 3,
+      "title": "Faith, Hope & Trick"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 4,
+      "title": "Beauty and the Beasts"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 5,
+      "title": "Homecoming"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 6,
+      "title": "Band Candy"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 7,
+      "title": "Revelations"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 8,
+      "title": "Lovers Walk"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 9,
+      "title": "The Wish"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 10,
+      "title": "Amends"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 11,
+      "title": "Gingerbread"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 12,
+      "title": "Helpless"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 13,
+      "title": "The Zeppo"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 14,
+      "title": "Bad Girls"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 15,
+      "title": "Consequences"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 16,
+      "title": "Doppelgangland"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 17,
+      "title": "Enemies"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 18,
+      "title": "Earshot"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 19,
+      "title": "Choices"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 20,
+      "title": "The Prom"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 21,
+      "title": "Graduation Day, Part One",
+      "part": "1/2"
+    },
+    {
+      "show": "buffy",
+      "season": 3,
+      "numberInSeason": 22,
+      "title": "Graduation Day, Part Two",
+      "part": "2/2"
+    },
+
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 1,
+      "title": "The Freshman"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 2,
+      "title": "Living Conditions"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 3,
+      "title": "The Harsh Light of Day"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 4,
+      "title": "Fear, Itself"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 5,
+      "title": "Beer Bad"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 6,
+      "title": "Wild at Heart"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 7,
+      "title": "The Initiative"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 8,
+      "title": "Pangs"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 9,
+      "title": "Something Blue"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 10,
+      "title": "Hush"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 11,
+      "title": "Doomed"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 12,
+      "title": "A New Man"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 13,
+      "title": "The I in Team"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 14,
+      "title": "Goodbye Iowa"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 15,
+      "title": "This Year's Girl"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 16,
+      "title": "Who Are You"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 17,
+      "title": "Superstar"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 18,
+      "title": "Where the Wild Things Are"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 19,
+      "title": "New Moon Rising"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 20,
+      "title": "The Yoko Factor"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 21,
+      "title": "Primeval"
+    },
+    {
+      "show": "buffy",
+      "season": 4,
+      "numberInSeason": 22,
+      "title": "Restless"
+    },
+
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 1,
+      "title": "Buffy vs. Dracula"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 2,
+      "title": "Real Me"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 3,
+      "title": "The Replacement"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 4,
+      "title": "Out of My Mind"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 5,
+      "title": "No Place Like Home"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 6,
+      "title": "Family"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 7,
+      "title": "Fool for Love"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 8,
+      "title": "Shadow"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 9,
+      "title": "Listening to Fear"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 10,
+      "title": "Into the Woods"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 11,
+      "title": "Triangle"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 12,
+      "title": "Checkpoint"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 13,
+      "title": "Blood Ties"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 14,
+      "title": "Crush"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 15,
+      "title": "I Was Made to Love You"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 16,
+      "title": "The Body"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 17,
+      "title": "Forever"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 18,
+      "title": "Intervention"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 19,
+      "title": "Tough Love"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 20,
+      "title": "Spiral"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 21,
+      "title": "The Weight of the World"
+    },
+    {
+      "show": "buffy",
+      "season": 5,
+      "numberInSeason": 22,
+      "title": "The Gift"
+    },
+
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 1,
+      "title": "Bargaining, Part One",
+      "part": "1/2"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 2,
+      "title": "Bargaining, Part Two",
+      "part": "2/2"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 3,
+      "title": "After Life"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 4,
+      "title": "Flooded"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 5,
+      "title": "Life Serial"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 6,
+      "title": "All the Way"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 7,
+      "title": "Once More, with Feeling"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 8,
+      "title": "Tabula Rasa"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 9,
+      "title": "Smashed"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 10,
+      "title": "Wrecked"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 11,
+      "title": "Gone"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 12,
+      "title": "Doublemeat Palace"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 13,
+      "title": "Dead Things"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 14,
+      "title": "Older and Far Away"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 15,
+      "title": "As You Were"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 16,
+      "title": "Hell's Bells"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 17,
+      "title": "Normal Again"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 18,
+      "title": "Entropy"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 19,
+      "title": "Seeing Red"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 20,
+      "title": "Villains"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 21,
+      "title": "Two to Go"
+    },
+    {
+      "show": "buffy",
+      "season": 6,
+      "numberInSeason": 22,
+      "title": "Grave"
+    },
+
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 1,
+      "title": "Lessons"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 2,
+      "title": "Beneath You"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 3,
+      "title": "Same Time, Same Place"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 4,
+      "title": "Help"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 5,
+      "title": "Selfless"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 6,
+      "title": "Him"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 7,
+      "title": "Conversations with Dead People"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 8,
+      "title": "Sleeper"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 9,
+      "title": "Never Leave Me"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 10,
+      "title": "Bring on the Night"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 11,
+      "title": "Showtime"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 12,
+      "title": "Potential"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 13,
+      "title": "The Killer in Me"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 14,
+      "title": "First Date"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 15,
+      "title": "Get It Done"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 16,
+      "title": "Storyteller"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 17,
+      "title": "Lies My Parents Told Me"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 18,
+      "title": "Dirty Girls"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 19,
+      "title": "Empty Places"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 20,
+      "title": "Touched"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 21,
+      "title": "End of Days"
+    },
+    {
+      "show": "buffy",
+      "season": 7,
+      "numberInSeason": 22,
+      "title": "Chosen"
+    },
+
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 1,
+      "title": "City of"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 2,
+      "title": "Lonely Hearts"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 3,
+      "title": "In the Dark"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 4,
+      "title": "I Fall to Pieces"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 5,
+      "title": "RM w/a VU"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 6,
+      "title": "Sense & Sensitivity"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 7,
+      "title": "The Bachelor Party"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 8,
+      "title": "I Will Remember You"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 9,
+      "title": "Hero"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 10,
+      "title": "Parting Gifts"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 11,
+      "title": "Somnambulist"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 12,
+      "title": "Expecting"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 13,
+      "title": "She"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 14,
+      "title": "I've Got You Under My Skin"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 15,
+      "title": "The Prodigal"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 16,
+      "title": "The Ring"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 17,
+      "title": "Eternity"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 18,
+      "title": "Five by Five"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 19,
+      "title": "Sanctuary"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 20,
+      "title": "War Zone"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 21,
+      "title": "Blind Date"
+    },
+    {
+      "show": "angel",
+      "season": 1,
+      "numberInSeason": 22,
+      "title": "To Shanshu in L.A."
+    },
+
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 1,
+      "title": "Judgment"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 2,
+      "title": "Are You Now or Have You Ever Been?"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 3,
+      "title": "First Impressions"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 4,
+      "title": "Untouched"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 5,
+      "title": "Dear Boy"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 6,
+      "title": "Guise Will Be Guise"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 7,
+      "title": "Darla"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 8,
+      "title": "The Shroud of Rahmon"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 9,
+      "title": "The Trial"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 10,
+      "title": "Reunion"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 11,
+      "title": "Redefinition"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 12,
+      "title": "Blood Money"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 13,
+      "title": "Happy Anniversary"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 14,
+      "title": "The Thin Dead Line"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 15,
+      "title": "Reprise"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 16,
+      "title": "Epiphany"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 17,
+      "title": "Disharmony"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 18,
+      "title": "Dead End"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 19,
+      "title": "Belonging"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 20,
+      "title": "Over the Rainbow"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 21,
+      "title": "Through the Looking Glass"
+    },
+    {
+      "show": "angel",
+      "season": 2,
+      "numberInSeason": 22,
+      "title": "There's No Place Like Plrtz Glrb"
+    },
+
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 1,
+      "title": "Heartthrob"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 2,
+      "title": "That Vision Thing"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 3,
+      "title": "That Old Gang of Mine"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 4,
+      "title": "Carpe Noctem"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 5,
+      "title": "Fredless"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 6,
+      "title": "Billy"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 7,
+      "title": "Offspring"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 8,
+      "title": "Quickening"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 9,
+      "title": "Lullaby"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 10,
+      "title": "Dad"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 11,
+      "title": "Birthday"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 12,
+      "title": "Provider"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 13,
+      "title": "Waiting in the Wings"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 14,
+      "title": "Couplet"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 15,
+      "title": "Loyalty"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 16,
+      "title": "Sleep Tight"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 17,
+      "title": "Forgiving"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 18,
+      "title": "Double or Nothing"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 19,
+      "title": "The Price"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 20,
+      "title": "A New World"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 21,
+      "title": "Benediction"
+    },
+    {
+      "show": "angel",
+      "season": 3,
+      "numberInSeason": 22,
+      "title": "Tomorrow"
+    },
+
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 1,
+      "title": "Deep Down"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 2,
+      "title": "Ground State"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 3,
+      "title": "The House Always Wins"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 4,
+      "title": "Slouching Toward Bethlehem"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 5,
+      "title": "Supersymmetry"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 6,
+      "title": "Spin the Bottle"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 7,
+      "title": "Apocalypse, Nowish"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 8,
+      "title": "Habeas Corpses"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 9,
+      "title": "Long Day's Journey"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 10,
+      "title": "Awakening"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 11,
+      "title": "Soulless"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 12,
+      "title": "Calvary"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 13,
+      "title": "Salvage"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 14,
+      "title": "Release"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 15,
+      "title": "Orpheus"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 16,
+      "title": "Players"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 17,
+      "title": "Inside Out"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 18,
+      "title": "Shiny Happy People"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 19,
+      "title": "The Magic Bullet"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 20,
+      "title": "Sacrifice"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 21,
+      "title": "Peace Out"
+    },
+    {
+      "show": "angel",
+      "season": 4,
+      "numberInSeason": 22,
+      "title": "Home"
+    },
+
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 1,
+      "title": "Conviction"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 2,
+      "title": "Just Rewards"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 3,
+      "title": "Unleashed"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 4,
+      "title": "Hell Bound"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 5,
+      "title": "Life of the Party"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 6,
+      "title": "The Cautionary Tale of Numero Cinco"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 7,
+      "title": "Lineage"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 8,
+      "title": "Destiny"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 9,
+      "title": "Harm's Way"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 10,
+      "title": "Soul Purpose"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 11,
+      "title": "Damage"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 12,
+      "title": "You're Welcome"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 13,
+      "title": "Why We Fight"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 14,
+      "title": "Smile Time"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 15,
+      "title": "A Hole in the World"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 16,
+      "title": "Shells"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 17,
+      "title": "Underneath"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 18,
+      "title": "Origin"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 19,
+      "title": "Time Bomb"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 20,
+      "title": "The Girl in Question"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 21,
+      "title": "Power Play"
+    },
+    {
+      "show": "angel",
+      "season": 5,
+      "numberInSeason": 22,
+      "title": "Not Fade Away"
+    }
+  ]
+}
+
+
+
+
+
+
+
+

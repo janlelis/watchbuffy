@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/watchbuffy"
+
+require "rationalist"
+
+args = Rationalist.parse(
+  string: ["show", "buffy-season", "angel-season"]
+)
+
+options = {}
+
+if args[:show]
+  options[:show] = args[:show].split(",")
+elsif args[:"buffy-season"] && !args[:"angel-season"]
+  options[:show] = "buffy"
+elsif args[:"angel-season"] && !args[:"buffy-season"]
+  options[:show] = "angel"
+end
+
+options[:buffy_season] = args[:"buffy-season"].split(",").map(&:to_i) if args[:"buffy-season"]
+options[:angel_season] = args[:"angel-season"].split(",").map(&:to_i) if args[:"angel-season"]
+
+Watchbuffy.pick(options)
