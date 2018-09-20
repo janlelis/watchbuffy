@@ -2,7 +2,7 @@
   "name": "buffyverse-episodes",
   "description": "List of all Buffy and Angel TV episodes",
   "from": "https://github.com/janlelis/watchbuffy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "episodes": [
     {
       "show": "buffy",

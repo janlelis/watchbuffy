@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### Next
+### 1.0.2
 
 * Add new option to ignore certain characters (only one supported by now)
   * Thanks @darkphnx
