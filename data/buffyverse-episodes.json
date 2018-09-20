@@ -1263,158 +1263,236 @@
       "show": "angel",
       "season": 3,
       "numberInSeason": 19,
-      "title": "The Price"
+      "title": "The Price",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 3,
       "numberInSeason": 20,
-      "title": "A New World"
+      "title": "A New World",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 3,
       "numberInSeason": 21,
-      "title": "Benediction"
+      "title": "Benediction",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 3,
       "numberInSeason": 22,
-      "title": "Tomorrow"
+      "title": "Tomorrow",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
 
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 1,
-      "title": "Deep Down"
+      "title": "Deep Down",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 2,
-      "title": "Ground State"
+      "title": "Ground State",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 3,
-      "title": "The House Always Wins"
+      "title": "The House Always Wins",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 4,
-      "title": "Slouching Toward Bethlehem"
+      "title": "Slouching Toward Bethlehem",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 5,
-      "title": "Supersymmetry"
+      "title": "Supersymmetry",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 6,
-      "title": "Spin the Bottle"
+      "title": "Spin the Bottle",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 7,
-      "title": "Apocalypse, Nowish"
+      "title": "Apocalypse, Nowish",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 8,
-      "title": "Habeas Corpses"
+      "title": "Habeas Corpses",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 9,
-      "title": "Long Day's Journey"
+      "title": "Long Day's Journey",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 10,
-      "title": "Awakening"
+      "title": "Awakening",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 11,
-      "title": "Soulless"
+      "title": "Soulless",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 12,
-      "title": "Calvary"
+      "title": "Calvary",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 13,
-      "title": "Salvage"
+      "title": "Salvage",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 14,
-      "title": "Release"
+      "title": "Release",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 15,
-      "title": "Orpheus"
+      "title": "Orpheus",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 16,
-      "title": "Players"
+      "title": "Players",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 17,
-      "title": "Inside Out"
+      "title": "Inside Out",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 18,
-      "title": "Shiny Happy People"
+      "title": "Shiny Happy People",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 19,
-      "title": "The Magic Bullet"
+      "title": "The Magic Bullet",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 20,
-      "title": "Sacrifice"
+      "title": "Sacrifice",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 21,
-      "title": "Peace Out"
+      "title": "Peace Out",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
       "season": 4,
       "numberInSeason": 22,
-      "title": "Home"
+      "title": "Home",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
 
     {
@@ -1523,7 +1601,10 @@
       "show": "angel",
       "season": 5,
       "numberInSeason": 18,
-      "title": "Origin"
+      "title": "Origin",
+      "includesCharacters": [
+        "Connor"
+      ]
     },
     {
       "show": "angel",
@@ -1547,7 +1628,10 @@
       "show": "angel",
       "season": 5,
       "numberInSeason": 22,
-      "title": "Not Fade Away"
+      "title": "Not Fade Away",
+      "includesCharacters": [
+        "Connor"
+      ]
     }
   ]
 }

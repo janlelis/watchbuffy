@@ -5,7 +5,7 @@ require_relative "../lib/watchbuffy"
 require "rationalist"
 
 args = Rationalist.parse(
-  string: ["show", "buffy-season", "angel-season"]
+  string: ["show", "buffy-season", "angel-season", "connor"]
 )
 
 options = {}
@@ -16,6 +16,9 @@ elsif args[:"buffy-season"] && !args[:"angel-season"]
   options[:show] = "buffy"
 elsif args[:"angel-season"] && !args[:"buffy-season"]
   options[:show] = "angel"
+end
+if args[:connor] == false
+  options[:exclude_characters] = "Connor"
 end
 
 options[:buffy_season] = args[:"buffy-season"].split(",").map(&:to_i) if args[:"buffy-season"]
