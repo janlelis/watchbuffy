@@ -40,6 +40,15 @@ $ watchbuffy --angel-season 4,5
 ▶️  Watch Angel episode 5×14: "Smile Time"
 ```
 
+### Advanced Options
+
+You can pass in a command-line option to ignore certain characters. By now, only Connor is supported:
+
+```
+$ watchbuffy --angel-season 4 --no-connor
+No episode found
+```
+
 ## MIT License
 
 Copyright (C) 2018 Jan Lelis <http://janlelis.com>. Released under the MIT license.
