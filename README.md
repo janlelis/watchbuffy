@@ -1,4 +1,4 @@
-# watchbuffy [![[version]](https://badge.fury.io/rb/watchbuffy.svg)](https://badge.fury.io/rb/watchbuffy)  [![[travis]](https://travis-ci.org/janlelis/watchbuffy.svg)](https://travis-ci.org/janlelis/watchbuffy)
+# watchbuffy [![[version]](https://badge.fury.io/rb/watchbuffy.svg)](https://badge.fury.io/rb/watchbuffy) [![[ci]](https://github.com/janlelis/watchbuffy/workflows/Test/badge.svg)](https://github.com/janlelis/watchbuffy/actions?query=workflow%3ATest)
 
 CLI utility which suggests a random Buffy or Angel episode to watch!
 
