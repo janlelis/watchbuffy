@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "Picks a random Buffy episode"
   gem.description   = "Suggests a random Buffy or Angel episode to watch"
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/watchbuffy"
   gem.license       = "MIT"
 

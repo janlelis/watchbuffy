@@ -4,7 +4,7 @@ CLI utility which suggests a random Buffy or Angel episode to watch!
 
 ## Setup
 
-Make sure that your computer has [Ruby 2.0 or higher installed](http://ruby.about.com/od/tutorials/a/installruby.htm).
+Make sure that your computer has Ruby 2.0 or higher installed.
 
 Then run
 
@@ -51,4 +51,4 @@ No episode found
 
 ## MIT License
 
-Copyright (C) 2018 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2018 Jan Lelis <https://janlelis.com>. Released under the MIT license.
